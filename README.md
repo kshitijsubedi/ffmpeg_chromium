@@ -6,3 +6,7 @@ In Linux
 
 /opt/vivaldi
 /opt/yandex
+
+
+#how ?
+chromium-codecs-ffmpeg-extra-extra ko deb file lai pkg ma ani teslai ark bata jikhya
